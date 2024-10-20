@@ -117,7 +117,7 @@ class Blum:
                     base.log(f"{base.red}Hata: {base.white}{e}")
 
             print()
-            wait_time = 60 * 60
+            wait_time = 0 * 0
             base.log(f"{base.yellow}Bekle: {int(wait_time / 60)} dakika!")
             time.sleep(wait_time)
 
