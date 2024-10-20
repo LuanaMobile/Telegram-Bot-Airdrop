@@ -1,1 +1,1 @@
-user=%7B%22id%22%3A1416011526%2C%22first_name%22%3A%22LuanaMobile%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Luanamobile%22%2C%22language_code%22%3A%22tr%22%7D&chat_instance=8587576605648550227&chat_type=sender&auth_date=1728696308&hash=b46182c9897cb34f4d57b491384a4fab747dcc8c5eb264da2208e4a1f7b5c512
+
