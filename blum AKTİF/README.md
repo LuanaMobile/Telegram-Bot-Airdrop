@@ -1,32 +1,32 @@
-# Blum - Auto Claim Bot
+# Blum - Otomatik Talep Botu
 
-🔗 **Referral Link**: [Blum](https://t.me/BlumCryptoBot/app?startapp=ref_4WwBGtCuHW)
+🔗 **Referans Linki**: [Blum](https://t.me/BlumCryptoBot)
 
-## 📢 Telegram Group
+## 📢 Telegram Grubu
 
-Join our Telegram group to stay updated and get instructions on how to use this tool:
+Bu araca nasıl kullanılacağına dair güncel bilgiler almak için Telegram grubumuza katılın:
 
-- [Smart Airdrop](https://t.me/smartaisssrdrop2120)
-- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
+- [Akıllı Airdrop](https://t.me/luanamobile)
+- [Akıllı Airdrop - Kanal](https://t.me/luanamobile)
 
-## 🌟 Features
+## 🌟 Özellikler
 
-| Feature        | Status | Description                                |
-| -------------- | ------ | ------------------------------------------ |
-| Auto Check-in  | On/Off | Daily login to get points and game tickets |
-| Auto Do Task   | On/Off | Complete tasks                             |
-| Auto Claim Ref | On/Off | Claim point from ref                       |
-| Auto Farm      | On/Off | Claim and Start farming points             |
-| Auto Play Game | On/Off | Play drop game to get more points          |
+| Özellik            | Durum     | Açıklama                                   |
+| ------------------ | --------- | ------------------------------------------ |
+| Otomatik Giriş     | Açık/Kapalı | Günlük giriş yaparak puan ve oyun biletleri kazanma |
+| Otomatik Görev Yap | Açık/Kapalı | Görevleri tamamlama                        |
+| Otomatik Referans Talebi | Açık/Kapalı | Referanslardan puan talep etme           |
+| Otomatik Tarım     | Açık/Kapalı | Puanları talep etme ve tarıma başlama    |
+| Otomatik Oyun Oynama | Açık/Kapalı | Daha fazla puan kazanmak için oyun oynama  |
 
-## 🚀 Run File
+## 🚀 Çalıştırma Dosyası
 
-| Run with Proxy                   | Run without Proxy   |
-| -------------------------------- | ------------------- |
+| Proxy ile Çalıştır | Proxy Olmadan Çalıştır |
+| ------------------- | ---------------------- |
 | `bot-proxy.py` `data-proxy.json` | `bot.py` `data.txt` |
 
-## ⚠️ Note
+## ⚠️ Not
 
-- Get auth data (`query_id=... /user=...`) in the `Application` tab in DevTools.
-- Auto features: Change `false` to `true` in the `config.json` file.
-- Supported commands: `/run_bot` `/query_id` `/proxy` `/proxy_web` (Join group to use these commands).
+- Yetkilendirme verilerini (`query_id=... /user=...`) DevTools'taki `Uygulama` sekmesinden alın.
+- Otomatik özellikler: `config.json` dosyasında `false` değerini `true` ile değiştirin.
+- Desteklenen komutlar: `/run_bot` `/query_id` `/proxy` `/proxy_web` (Bu komutları kullanmak için gruba katılın).
