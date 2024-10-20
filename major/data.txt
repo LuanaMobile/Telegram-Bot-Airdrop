@@ -1,1 +1,1 @@
-query_id=AAEGn2ZUAAAAAAafZlRvcALT&user=%7B%22id%22%3A1416011526%2C%22first_name%22%3A%22LuanaMobile%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Luanamobile%22%2C%22language_code%22%3A%22tr%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728703870&hash=374aa0a11da529a6199ef5692ac286055dcb9b938d0132ac2acd7645b187d425
+
