@@ -1,2 +1,0 @@
-smart-airdrop-claimer
-requests
