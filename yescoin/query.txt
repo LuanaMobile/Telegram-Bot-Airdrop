@@ -1,0 +1,2 @@
+
+user=%7B%22id%22%3A1416011526%2C%22first_name%22%3A%22LuanaMobile%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Luanamobile%22%2C%22language_code%22%3A%22tr%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=8851170230960237061&chat_type=sender&start_param=fGYOZq_SFTEarning_Squad&auth_date=1729504365&hash=38d38f0c64a1fe7bca955f98db78bb48b4bf4f8915f29fa850beac73b5c34726
